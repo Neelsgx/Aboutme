@@ -32,6 +32,6 @@ I’m a data-driven problem solver based in Melbourne, recently graduated from A
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/neelthakur]([https://www.linkedin.com/in/neelthakur1/])
+- **LinkedIn:** https://www.linkedin.com/in/neelthakur1/
 - **Email:** Neel52@duck.com
 - **Visa Status:** 485 Graduate Visa (Full Work Rights)
